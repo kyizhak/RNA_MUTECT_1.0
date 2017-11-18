@@ -67,7 +67,7 @@ To run the RNA-MuTect pipeline please follow these steps:
      <Darned_mat.mat> - input file found in directory (mat_files)
      <Radar_mat.mat> - input file found in directory (mat_files)
      <Exac_mat.mat> - input file found in directory (mat_files)
-     <PoN_GTEx> - input file that should be retreived from dbGAP. See below for an option to run this step with this file
+     <PoN_GTEx> - input file that should be retreived from dbGAP. See below for an option to run this step without this file
      
      Output:
      -------
@@ -91,6 +91,6 @@ To run the RNA-MuTect pipeline please follow these steps:
     <MAF_file> - input MAF file
     <call_stats_file> - output of Step 1
     <MIN_ALT_COUNT> - the minimal number of reads required supporting the alternate allele (MIN_ALT_COUNT=3 was used in the paper for TCGA samples and MIN_ALT_COUNT=4 for GTEx samples)
-    <Darned_mat.mat> - input file found in directory
-    <Radar_mat.mat> - input file found in directory
-    <Exac_mat.mat> - input file found in directory
+    <Darned_mat.mat> - input file found in directory (mat_files)
+    <Radar_mat.mat> - input file found in directory (mat_files)
+    <Exac_mat.mat> - input file found in directory (mat_files)
