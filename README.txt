@@ -2,6 +2,8 @@
 RNA-MuTect
 ----------
 
+Please visit https://github.com/broadinstitute/RNA_MUTECT_1.0-1 for the updates version of RNA_MUTECT
+
 *****************************************
 The pipeline uses the following software:
 1. samtools (1.2+)
